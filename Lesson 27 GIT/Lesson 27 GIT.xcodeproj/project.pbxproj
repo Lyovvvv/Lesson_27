@@ -7,19 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04771E931E7E863B0051FB27 /* Sergey_ ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04771E921E7E863B0051FB27 /* Sergey_ ViewController.m */; };
 		083AAEDF1E7E813B0080C0E4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 083AAEDE1E7E813B0080C0E4 /* main.m */; };
 		083AAEE21E7E813B0080C0E4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 083AAEE11E7E813B0080C0E4 /* AppDelegate.m */; };
 		083AAEE51E7E813B0080C0E4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 083AAEE41E7E813B0080C0E4 /* ViewController.m */; };
 		083AAEE81E7E813B0080C0E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 083AAEE61E7E813B0080C0E4 /* Main.storyboard */; };
 		083AAEEA1E7E813B0080C0E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 083AAEE91E7E813B0080C0E4 /* Assets.xcassets */; };
 		083AAEED1E7E813B0080C0E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 083AAEEB1E7E813B0080C0E4 /* LaunchScreen.storyboard */; };
+		083AAEF61E7E8AC20080C0E4 /* Sergey_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 083AAEF51E7E8AC20080C0E4 /* Sergey_ViewController.m */; };
 		1306AC721E7FDA0900EBA90D /* NarekViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1306AC711E7FDA0900EBA90D /* NarekViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04771E911E7E863B0051FB27 /* Sergey_ ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Sergey_ ViewController.h"; sourceTree = "<group>"; };
-		04771E921E7E863B0051FB27 /* Sergey_ ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Sergey_ ViewController.m"; sourceTree = "<group>"; };
 		083AAEDA1E7E813B0080C0E4 /* Lesson 27 GIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lesson 27 GIT.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		083AAEDE1E7E813B0080C0E4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		083AAEE01E7E813B0080C0E4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -30,6 +28,8 @@
 		083AAEE91E7E813B0080C0E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		083AAEEC1E7E813B0080C0E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		083AAEEE1E7E813B0080C0E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		083AAEF41E7E8AC20080C0E4 /* Sergey_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sergey_ViewController.h; sourceTree = "<group>"; };
+		083AAEF51E7E8AC20080C0E4 /* Sergey_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sergey_ViewController.m; sourceTree = "<group>"; };
 		1306AC701E7FDA0900EBA90D /* NarekViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NarekViewController.h; sourceTree = "<group>"; };
 		1306AC711E7FDA0900EBA90D /* NarekViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NarekViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -48,8 +48,6 @@
 		083AAED11E7E813B0080C0E4 = {
 			isa = PBXGroup;
 			children = (
-				04771E911E7E863B0051FB27 /* Sergey_ ViewController.h */,
-				04771E921E7E863B0051FB27 /* Sergey_ ViewController.m */,
 				083AAEDC1E7E813B0080C0E4 /* Lesson 27 GIT */,
 				083AAEDB1E7E813B0080C0E4 /* Products */,
 			);
@@ -72,6 +70,8 @@
 				083AAEE41E7E813B0080C0E4 /* ViewController.m */,
 				1306AC701E7FDA0900EBA90D /* NarekViewController.h */,
 				1306AC711E7FDA0900EBA90D /* NarekViewController.m */,
+				083AAEF41E7E8AC20080C0E4 /* Sergey_ViewController.h */,
+				083AAEF51E7E8AC20080C0E4 /* Sergey_ViewController.m */,
 				083AAEE61E7E813B0080C0E4 /* Main.storyboard */,
 				083AAEE91E7E813B0080C0E4 /* Assets.xcassets */,
 				083AAEEB1E7E813B0080C0E4 /* LaunchScreen.storyboard */,
@@ -160,12 +160,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA3136591E7E863F0033CDB9 /* NarekViewController.m in Sources */,
-				04771E931E7E863B0051FB27 /* Sergey_ ViewController.m in Sources */,>>>>>>> Stashed changes
 				083AAEE51E7E813B0080C0E4 /* ViewController.m in Sources */,
 				1306AC721E7FDA0900EBA90D /* NarekViewController.m in Sources */,
 				083AAEE21E7E813B0080C0E4 /* AppDelegate.m in Sources */,
 				083AAEDF1E7E813B0080C0E4 /* main.m in Sources */,
+				083AAEF61E7E8AC20080C0E4 /* Sergey_ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
