@@ -31,9 +31,17 @@
     
 }
 
+- (void)Arman {
+    
+    NSLog(@"inchvor ban");
+    
+}
+
 
 - (void)Siranuysh {
     
 }
 
 @end
+
+
