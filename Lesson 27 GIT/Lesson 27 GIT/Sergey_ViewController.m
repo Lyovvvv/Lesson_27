@@ -6,7 +6,7 @@
 //  Copyright © 2017 Gharibyan Levon. All rights reserved.
 //
 
-#import "Sergey_ ViewController.h"
+#import "Sergey_ViewController.h"
 
 @interface Sergey__ViewController ()
 
