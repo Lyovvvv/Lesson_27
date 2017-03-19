@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     // Hello
     NSLog(@"My Log");
+=======
+    NSLog(@"Test Conflict");
 }
 -(void)surensMethod{
     NSLog(@"Suren");
