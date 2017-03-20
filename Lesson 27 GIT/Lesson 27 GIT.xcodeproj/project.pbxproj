@@ -13,7 +13,7 @@
 		083AAEE81E7E813B0080C0E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 083AAEE61E7E813B0080C0E4 /* Main.storyboard */; };
 		083AAEEA1E7E813B0080C0E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 083AAEE91E7E813B0080C0E4 /* Assets.xcassets */; };
 		083AAEED1E7E813B0080C0E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 083AAEEB1E7E813B0080C0E4 /* LaunchScreen.storyboard */; };
-		FA3136591E7E863F0033CDB9 /* NarekViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA3136581E7E863F0033CDB9 /* NarekViewController.m */; };
+		1306AC721E7FDA0900EBA90D /* NarekViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1306AC711E7FDA0900EBA90D /* NarekViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +27,8 @@
 		083AAEE91E7E813B0080C0E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		083AAEEC1E7E813B0080C0E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		083AAEEE1E7E813B0080C0E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA3136571E7E863F0033CDB9 /* NarekViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NarekViewController.h; path = ../../../../NarekViewController.h; sourceTree = "<group>"; };
-		FA3136581E7E863F0033CDB9 /* NarekViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NarekViewController.m; path = ../../../../NarekViewController.m; sourceTree = "<group>"; };
+		1306AC701E7FDA0900EBA90D /* NarekViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NarekViewController.h; sourceTree = "<group>"; };
+		1306AC711E7FDA0900EBA90D /* NarekViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NarekViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +65,8 @@
 				083AAEE11E7E813B0080C0E4 /* AppDelegate.m */,
 				083AAEE31E7E813B0080C0E4 /* ViewController.h */,
 				083AAEE41E7E813B0080C0E4 /* ViewController.m */,
-				FA3136571E7E863F0033CDB9 /* NarekViewController.h */,
-				FA3136581E7E863F0033CDB9 /* NarekViewController.m */,
+				1306AC701E7FDA0900EBA90D /* NarekViewController.h */,
+				1306AC711E7FDA0900EBA90D /* NarekViewController.m */,
 				083AAEE61E7E813B0080C0E4 /* Main.storyboard */,
 				083AAEE91E7E813B0080C0E4 /* Assets.xcassets */,
 				083AAEEB1E7E813B0080C0E4 /* LaunchScreen.storyboard */,
@@ -155,8 +155,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA3136591E7E863F0033CDB9 /* NarekViewController.m in Sources */,
 				083AAEE51E7E813B0080C0E4 /* ViewController.m in Sources */,
+				1306AC721E7FDA0900EBA90D /* NarekViewController.m in Sources */,
 				083AAEE21E7E813B0080C0E4 /* AppDelegate.m in Sources */,
 				083AAEDF1E7E813B0080C0E4 /* main.m in Sources */,
 			);
